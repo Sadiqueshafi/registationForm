@@ -1,0 +1,28 @@
+.contains {
+    text-align: center;
+  }
+
+  .login-box {
+    display: inline-block;
+    margin: auto;
+    width: 100%;
+    max-width: 450px;
+    min-width: 200px;
+    margin: auto;
+    margin-top: 10%;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .ss:hover{
+    background-color: green;
+  }
+.login{
+  text-align: center  ;
+}
+.form-group{
+  margin: 20px;
+}
+  h2{
+    text-align: center;
+  }
